@@ -1,0 +1,55 @@
+{
+    "books": [
+        {
+            "title": "The war",
+            "author": "Nepolean",
+            "copies": 11
+        },
+        {
+            "title": "Ego",
+            "author": "abc",
+            "copies": 30
+        },
+        {
+            "title": "Gulistan e Saadi",
+            "author": "Sheikh Saadi",
+            "copies": 10
+        },
+        {
+            "title": "Think and Grow Rich",
+            "author": "Nepolean Hill",
+            "copies": 10
+        },
+        {
+            "title": "Rich dad Poor dad",
+            "author": "Robert Kyosaki",
+            "copies": 40
+        },
+        {
+            "title": "The Art of Laziness",
+            "author": "Julia Whitmore",
+            "copies": 22
+        },
+        {
+            "title": "The Intelligent Investor",
+            "author": "Benjamin Graham",
+            "copies": 8
+        },
+        {
+            "title": "Mastery",
+            "author": "Robert Greene",
+            "copies": 23
+        },
+        {
+            "title": "The 48 Laws of Power",
+            "author": "Robert Greene",
+            "copies": 45
+        },
+        {
+            "title": "The Laws of Human Nature",
+            "author": "Robert Greene",
+            "copies": 33
+        }
+    ],
+    "borrowed_count": 6
+}
